@@ -18,4 +18,3 @@ This is a Python-based Blood Bank Management System designed to manage donor det
 ```bash
 python blood.py
 
-<img width="1920" height="1080" alt="Screenshot 2026-07-09 223110" src="https://github.com/user-attachments/assets/61b70aeb-b782-46b7-9084-4671a63f3df3" />
